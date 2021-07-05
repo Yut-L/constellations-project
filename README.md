@@ -25,6 +25,36 @@
 - 通过底部tab和头部nav更新请求数据并显示
 - rem布局
 
+
+
+## 结构目录
+
+```
+├─public
+└─src
+    ├─assets
+    │  ├─css
+    │  ├─img
+    │  └─js
+    ├─components
+    │  ├─common
+    │  ├─errorTip
+    │  ├─header
+    │  ├─list
+    │  ├─navBar
+    │  ├─numList
+    │  └─tab
+    ├─configs
+    ├─datas
+    ├─libs
+    ├─router
+    ├─serves
+    ├─store
+    └─views
+```
+
+
+
 ## 运行
 
 ```javascript
@@ -35,9 +65,10 @@ npm install
 npm run serve
 ```
 
+
+
 ## 项目效果
 
 
 
 <img src="https://i.loli.net/2021/07/05/hd16OknxQ4pEKqS.jpg"  />
-
