@@ -37,7 +37,7 @@ npm run serve
 
 ## 项目效果
 
-在手机端和pc端:
 
-https://i.loli.net/2021/07/05/hd16OknxQ4pEKqS.jpg     https://i.loli.net/2021/07/05/ZzmVpos37GgMBer.jpg
+
+<img src="https://i.loli.net/2021/07/05/hd16OknxQ4pEKqS.jpg"  />
 
